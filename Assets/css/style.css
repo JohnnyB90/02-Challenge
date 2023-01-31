@@ -157,3 +157,17 @@ a {
 .seo {
     color: #d9dcd6;
 }
+
+
+@media screen and (max-width: 844px) {
+
+#menu-container {
+
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    
+    }
+
+}
